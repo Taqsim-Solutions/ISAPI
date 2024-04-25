@@ -1,0 +1,21 @@
+{
+  "UserInfoSearchCond":{
+    "searchID":"",
+/*required, string type, search ID, which is used to confirm the upper-level platform or system. If the platform or the system is the same one during two searching, the search history will be saved in the memory to speed up next searching*/
+    "searchResultPosition": ,
+/*required, integer32 type, the start position of the search result in the result list. When there are multiple records and you cannot get all search results at a time, you can search for the records after the specified position next time*/
+    "maxResults": ,
+/*required, integer32 type, maximum number of search results. If maxResults exceeds the range returned by the device capability, the device will return the maximum number of search results according to the device capability and will not return error message*/
+    "EmployeeNoList":[{
+/*optional, person ID list (if this node does not exist or is empty, it indicates searching for all person information)*/
+      "employeeNo":""
+/*optional, string type, employee No. (person ID)*/
+    }],
+    "fuzzySearch":"",
+/*optional, string, key words for fuzzy search*/
+    "userType":  "normal",    
+/*optional, string, normal （normal user), visitor (visitor), blockList (person in blocklist), patient (patient), maintenance (maintenance people)*/
+    "deviceIDList": [1, 2]    
+/*optional, array, device ID list*/
+  }
+}
