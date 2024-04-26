@@ -1,0 +1,88 @@
+{
+  "UserInfo":{
+    "employeeNo":"",
+/*required, string, employee No. (person ID)*/
+    "deleteUser": ,
+/*optional, boolean, whether to delete the person: "true"-yes. This node is required only when the person needs to be deleted; for adding or editing person information, this node can be set o NULL*/
+    "name":"",
+/*optional, string, person name*/
+    "userType":"",
+/*required, string, person type: "normal"-normal person (household), "visitor", "blackList"-person in blocklist*/
+    "closeDelayEnabled": ,
+/*optional, boolean, whether to enable door close delay: "true"-yes, "false" no*/
+    "Valid":{
+/*required, parameters of the effective period, the effective period can be a period of time between 1970-01-01 00:00:00 and 2037-12-31 23:59:59*/
+      "enable": ,
+/*required, boolean, whether to enable the effective period: "false"-disable, "true"-enable. If this node is set to "false", the effective period is permanent*/
+      "beginTime":"",
+/*required, start time of the effective period (if timeType does not exist or is "local", the beginTime is the device local time, e.g., 2017-08-01T17:30:08; if timeType is "UTC", the beginTime is UTC time, e.g., 2017-08-01T17:30:08+08:00)*/
+      "endTime":"",
+/*required, end time of the effective period (if timeType does not exist or is "local", the endTime is the device local time, e.g., 2017-08-01T17:30:08; if timeType is "UTC", the endTime is UTC time, e.g., 2017-08-01T17:30:08+08:00)*/       
+"timeType":""
+/*optional, string, time type: "local"- device local time, "UTC"- UTC time*/
+    },
+    "belongGroup":"",
+/*optional, string, group*/
+    "password":"",
+/*optional, string, password*/
+    "doorRight":"",
+/*optional, string, No. of the door or lock that has access permission, e.g., "1,3" indicates having permission to access door (lock) No. 1 and No. 3*/
+    "RightPlan":[{
+/*optional, door permission schedule (lock permission schedule)*/
+      "doorNo": ,
+/*optional, integer, door No. (lock ID)*/
+      "planTemplateNo":""
+/*optional, string, schedule template No.*/
+    }],
+    "maxOpenDoorTime": ,
+/*optional, integer, maximum authentication attempts, 0-unlimited*/
+    "openDoorTime": ,
+/*optional, integer, read-only, authenticated attempts*/
+    "roomNumber": ,
+/*optional, integer, room No.*/
+    "floorNumber": ,
+/*optional, integer, floor No.*/
+    "doubleLockRight": ,
+/*optional, boolean, whether to have the permission to open the double-locked door: "true"-yes, "false"-no*/
+    "localUIRight": ,
+/*optional, boolean, whether to have the permission to access the device local UI: "true"-yes, "false"-no*/
+    "localUIUserType":"",
+/*optional, string, user type of device local UI: "admin" (administrator), "operator", "viewer" (normal user). This node is used to distinguish different users with different operation permissions of device local UI*/
+    "userVerifyMode":"",
+/*optional, string, person authentication mode: "cardAndPw"-card+password, "card"-card, "cardOrPw"-card or password, "fp"-fingerprint, "fpAndPw"fingerprint+password, "fpOrCard"-fingerprint or card, "fpAndCard"-fingerprint +card, "fpAndCardAndPw"-fingerprint+card+password, "faceOrFpOrCardOrPw"-face or fingerprint or card or password, "faceAndFp"-face+fingerprint, "faceAndPw"-face +password, "faceAndCard"-face+card, "face"-face, "employeeNoAndPw"-employee No. +password, "fpOrPw"-fingerprint or password, "employeeNoAndFp"-employee No. +fingerprint, "employeeNoAndFpAndPw"-employee No.+fingerprint+password, "faceAndFpAndCard"-face+fingerprint+card, "faceAndPwAndFp"-face+password +fingerprint, "employeeNoAndFace"-employee No.+face, "faceOrfaceAndCard"-face or face+card, "fpOrface"-fingerprint or face, "cardOrfaceOrPw"-card or face or password, "cardOrFace"-card or face, "cardOrFaceOrFp"-card or face or fingerprint, "cardOrFpOrPw"-card or fingerprint or password. The priority of the person authentication mode is higher than that of the card reader authentication mode*/     
+"checkUser": , 
+/*optional, boolean, whether to verify the duplicated person information: "false"-no, "true"-yes. If checkUser is not configured, the device will verify the duplicated person information by default. When there is no person information, you can set checkUser to "false" to speed up data applying; otherwise, it is not recommended to configure this node*/
+    "addUser": ,
+/*optional, boolean type, whether to add the person if the person information being edited does not exist: "false"-no (if the device has checked that the person information being edited does not exist, the failure response message will be returned along with the error code), "true"-yes (if the device has checked that the person information being edited does not exist, the success response message will be returned, and the person will be added). If this node is not configured, the person will not be added by default*/
+    "dynamicCode": "123456", 
+/*optional, string, dynamic permission code, this node is write-only*/
+    "callNumbers": ["","",""],    
+/*optional, string type, room No. list to be called, by default, its format is X-X-X-X (e.g., 1-1-1-401), which is extended from roomNumber; for standard SIP, it can be the SIP number*/
+"floorNumbers": [ , ],
+/*optional, integer type, floor No. list, which is extended from floorNumber*/     
+"numOfFace":,
+/*optional, read-only, number of linked face pictures. If this field is not returned, it indicates that this function is not supported*/
+    "numOfFP": ,
+/*optional, read-only, number of linked fingerprints. If this field is not returned, it indicates that this function is not supported*/
+    "numOfCard": ,
+/*optional, read-only, number of linked cards. If this field is not returned, it indicates that this function is not supported*/
+    "gender":"",
+/*optional, string, gender of the person in the face picture: "male", "female", 
+"unknown"*/
+    "PersonInfoExtends":[{
+/*optional, array of object, extended fields for the additional person information. This node is used to configure the extended person information displayed on the device's UI. For MinMoe series facial recognition terminals, currently only one value node can be supported for displaying the employee No.  and the node id is not supported*/
+      "id":1,
+ /*optional, int, extended ID of the additional person information, value range: [1,32]. It corresponds to the id in the message of the request URI /ISAPI/ AccessControl/personInfoExtendName?format=json and is used to link the value of the node value and its name (the node name in the message of the request URI / ISAPI/AccessControl/personInfoExtendName?format=json). If the node id does not exist, the ID will start from 1 by default according to the array order*/
+      "value":""
+/*optional, string, extended content of the additional person information*/
+    }],
+    "operateType": "byTerminal",
+/*optional, string, operation type: "byTerminal"-by terminal*/
+    "terminalNoList": [1],
+/*optional, array, terminal ID list, this node is required when operation type is "byTerminal"; currently, only one terminal is supported*/
+    "groupId":1,
+/*optional, int, department No. of local time and attendance*/
+    "localAtndPlanTemplateId":1
+/*optional, int, schedule template of local time and attendance. If this node exist, it indicates that there are shift schedule settings by individual. If id is 0, it indicates canceling the shift schedule of the person*/
+  }
+}
