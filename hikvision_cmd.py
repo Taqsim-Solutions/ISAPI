@@ -69,3 +69,5 @@ if __name__ == '__main__':
         hv.CreateUser()
     if order == 'addfacerecord':
         hv.addFaceRecord()
+        
+        #comentario
