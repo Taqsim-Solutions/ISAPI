@@ -4,7 +4,7 @@ import json
 def DeleteUser(url, auth, ifile):
     path = f'{url}/ISAPI/AccessControl/UserInfo/Delete?format=json'
     
-    with open(ifile, 'r') as archivo:
+    with open(ifile, 'r') as archivo: #cc
         json_data = json.load(archivo)
     response = requests.put(path, auth=auth, json=json_data)
 
