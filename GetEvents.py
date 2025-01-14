@@ -21,8 +21,10 @@ cuerpo_mensaje = {
     }
 }
 
+auth=HTTPDigestAuth(usuario, clave)
+
 # Realizar la solicitud POST con autenticación de tipo Digest y el cuerpo de mensaje JSON
-response = requests.post(url, auth=HTTPDigestAuth(usuario, clave), json=cuerpo_mensaje)
+response = requests.post(url, auth=auth, json=cuerpo_mensaje)
 
 # Verificar si la solicitud fue exitosa (código de estado 200)
 if response.status_code == 200:

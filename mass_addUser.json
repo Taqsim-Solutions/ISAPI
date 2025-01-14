@@ -1,0 +1,1469 @@
+[{
+   "UserInfo":{
+      "employeeNo":"5",
+      "name":"Ortiqov Tursunboy Zokirjonivich",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"male",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"6",
+      "name":"Temirov Xushnud Jamolivich",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"male",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"7",
+      "name":"Sarimova Dildora Soataliyevna",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"8",
+      "name":"Ergashov Bahidir Choriyevich",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"male",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"9",
+      "name":"Norqulov Rashid Husniddin o‘g‘li",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"male",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"10",
+      "name":"Pattayev Bunyod Donaboy o‘g‘li",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"male",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"11",
+      "name":"Abdiyeva Gulara Babaniyazovna
+",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"12",
+      "name":"Nurumbetova Umida 
+Kazimovna ",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"13",
+      "name":"Ruzbayeva Sevar Tilabovna",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"14",
+      "name":"Yaxshiyev Sherali Baxtiyorovich",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"male",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"15",
+      "name":"Xolmuminov Oybek Tuxtayevich",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"male",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"16",
+      "name":"Karimov Norbek Najmiddin o‘g‘li",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"male",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"17",
+      "name":"Sattorova Nozima Sayfulloyevna",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"18",
+      "name":"Usmonov Lochinbek Sadriddin o‘g‘li",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"male",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"19",
+      "name":"Usmonov Shohruh 
+Farxod o‘g‘li",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"male",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"20",
+      "name":"Tursunov Uktam 
+Qudratovich.",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"male",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"21",
+      "name":"Kamolova Gulxumor Jamoldinovna",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"22",
+      "name":"Dushayeva Nazokat Sharofitdinovna",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"23",
+      "name":"Xojiyev Orif Talipovich",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"male",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"24",
+      "name":"Maxmudova Jamila Sultonovna",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"25",
+      "name":"Dadajonova Zuxra Akramovna",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"26",
+      "name":"Zaynitdinova Masuda Abdukadirovna",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"27",
+      "name":"To‘rayev Asqarali Baxtiyor o‘g‘li",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"male",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"28",
+      "name":"Xamdamova Manzura Zuvaydillayevna",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"29",
+      "name":"Urakova Shoxida Keldiyarovna",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"30",
+      "name":"Aripova Dilbar Raxmonberdi qizi",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"31",
+      "name":"Shodmonov Baxtiyor Isaxanovich",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"male",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"32",
+      "name":"Siddiqov Latifjon Baxtiyorovich",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"male",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"33",
+      "name":"Maxmudov Temirxon Toxirjon o‘g‘li",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"male",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"34",
+      "name":"Chapanbayev Faxriddin Turanovich",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"male",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"35",
+      "name":"Quldasheva Dilorom Aduxamidovna",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"36",
+      "name":"Ataboyeva Xumoraxon Muxammadjanovna",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"37",
+      "name":"Xasanova Gulchehra Shomurotovna ",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"38",
+      "name":"Axmedov Tursinali Saparaliyevich",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"male",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"39",
+      "name":"Arifova Dildora Osimjonovna",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"40",
+      "name":"Narmatov Xursanali Ilxamovich",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"male",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"41",
+      "name":"Raximova Dilfuza Jurgunovna",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"42",
+      "name":"Sattarova Gulmira Asqarjon qizi",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"43",
+      "name":"Nabiyeva Gulmira Tursumuratovna",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"44",
+      "name":"Bo‘ronboyeva Xushruyo Toshkinboyevna",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"45",
+      "name":"Mulladjonova Gullola Abduxalilovna",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"46",
+      "name":"Gapparova Vasila Xamdamovna",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"47",
+      "name":"Kalimbetov Baxtiyar Pirmaxamatovich ",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"male",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"48",
+      "name":"Qosimova Dilnoza Erkin qizi ",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"49",
+      "name":"Xamidova Maftuna Xalil qizi",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"50",
+      "name":"Rasuljonova Ra'no Mirsoatovna",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"51",
+      "name":"Yusupova Ozoda Avazbek qizi",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"52",
+      "name":"Yorbozorov Akbar Baxtiyorovich ",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"male",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"53",
+      "name":"Usmonqulov Shohrux G‘ofur  o‘g‘li",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"male",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"54",
+      "name":"Yusupov Ma'mur M'arufovich",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"male",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"55",
+      "name":"Axtamov Xasan Xikmat o‘g‘li ",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"male",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"56",
+      "name":"Azimova Feruza Teshaboyevna",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"57",
+      "name":"Urinbayeva Zuxra Xudayberdi qizi ",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"58",
+      "name":"Azimov Asamiddin Rasulovich ",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"male",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"59",
+      "name":"Raxmatova Umida Abdirashidovna",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"60",
+      "name":"Narzullayev Kaxramon Jurakulovich ",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"male",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"61",
+      "name":"Tojibayeva Aziza Rixsivaevna",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"62",
+      "name":"Xudoyberdiyev Nodir Odil o‘g‘li",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"male",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"63",
+      "name":"Bobonov Avlayor Ochilovich",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"male",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"64",
+      "name":"Eshmamatova Durdona  Ikromovna",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"female",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+},
+{
+   "UserInfo":{
+      "employeeNo":"65",
+      "name":"Murodov Baxtiyor Ochildiyevich",
+      "userType":"normal",
+      "doorRight":"1",
+      "RightPlan":[
+         {
+            "doorNo":1,
+            "planTemplateNo":"1"
+         }
+      ],
+      "gender":"male",
+      "localUIRight":false,
+      "maxOpenDoorTime":0,
+      "userVerifyMode":"",
+      "Valid":{
+         "enable":true,
+         "beginTime":"2024-01-01T00:00:00",
+         "endTime":"2032-12-12T23:59:59",
+         "timeType":"local"
+      }
+   }
+}
+]
